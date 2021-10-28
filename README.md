@@ -3,7 +3,7 @@
 - :telescope: I’m currently working on Data Analyses
 - :seedling: I’m currently Statistical Models, Time series Analysis, Spark (etc)
 - :speech_balloon: Don't hesitate to contact me
-- 
+
 ## Social
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-salih-ate%C5%9F-137039157/)
 [<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/mssates)
