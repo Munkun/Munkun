@@ -1,6 +1,6 @@
 
 ## Hi there. I'm Mustafa..:wave:
-- :telescope: I'm looking for a job in data analytics
-- :seedling: I’m currently working on Data Analytics, Statistical Models, Time series Analysis, Spark (etc)
+- :telescope: I'm looking for the closest stars
+- :seedling: I’m currently working on Data Analytics, Statistical Models, Time series Analysis, Cloud
 - :speech_balloon: Don't hesitate to contact me
 
